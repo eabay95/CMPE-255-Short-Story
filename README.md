@@ -10,3 +10,6 @@ https://youtu.be/RrQzZH1kObk
 
 ## Original Article
 https://arxiv.org/pdf/2506.00188
+
+## Link to Class Spreadsheet
+https://docs.google.com/spreadsheets/d/1dgFf_VLUsn00PcexC8l3uXd5lKOSDMXS66x70DCNL_g/edit?gid=758617987#gid=758617987
